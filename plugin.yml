@@ -1,0 +1,8 @@
+name: AdventureMaps
+version: 1.0
+main: me.michaelkrauty.AdventureMaps.AdventureMaps
+author: michaelkrauty
+dependency: [Multiverse-Core]
+commands:
+  adventuremaps:
+    aliases: [adventuremaps, adventuremap, adventure, am]
